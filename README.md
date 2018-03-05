@@ -1,2 +1,3 @@
 # HackerRank Challenges
-Work completed while going through tracks on HackerRank
+
+This is a collection of my solutions to challenges from https://www.hackerrank.com/.

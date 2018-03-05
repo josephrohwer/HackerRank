@@ -1,3 +1,3 @@
 # HackerRank Challenges
 
-This is a collection of my solutions to challenges from https://www.hackerrank.com/.
+This is a collection of my solutions to challenges from [HackerRank](https://www.hackerrank.com/).
